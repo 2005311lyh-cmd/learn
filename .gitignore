@@ -1,0 +1,27 @@
+# Keil 编译输出
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.iex
+*.i
+*_2i
+*.l2p
+*.fed
+*.map
+*.hex
+*.bin
+*.Bak
+
+# Keil 工程配置
+*.uvguix.*
+*.uvgui.*
+
+# J-Link
+JLinkLog.txt
+*.dbgconf
